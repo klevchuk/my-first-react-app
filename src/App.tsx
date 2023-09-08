@@ -15,6 +15,10 @@ function App() {
 
 export default App;
 
+function AppTitle() {
+    return <>This is App component</>
+}
+
 function Rating() {
     return (
         <div>
@@ -32,10 +36,6 @@ function Star() {
     return (
         <div>star</div>
     )
-}
-
-function AppTitle() {
-    return <>This is App component</>
 }
 
 function Accordion() {
