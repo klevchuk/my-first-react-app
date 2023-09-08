@@ -10,7 +10,7 @@ function App() {
             <AppTitle title = {"My friends"}/>
             <Rating value={3}/>
             <Accordion title = {"Menu"}/>
-            <Accordion title = {"Guest"}/>
+            <Accordion title = {"Guests"}/>
             <Rating value={0}/>
             <Rating value={1}/>
             <Rating value={2}/>
